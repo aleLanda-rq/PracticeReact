@@ -1,2 +1,2 @@
 # PracticeReact
-Practicing react
+Static React Page
