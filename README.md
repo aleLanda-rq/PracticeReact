@@ -1,2 +1,3 @@
 # PracticeReact
-Static React Page
+Static Virtual Busines card using React
+
