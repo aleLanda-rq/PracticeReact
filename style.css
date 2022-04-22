@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #918E9B;
+    background-color: #23252C;
 }
 .image{
     position: relative;
@@ -24,7 +24,7 @@ body{
 }
 .container .card{
     position:relative;
-    background-color: #23252C;
+    background-color: black;
     bottom: 40px;
     top: 50px;
     height: 700px;
@@ -90,14 +90,14 @@ h2{
 }
 footer{
     position:relative;
-    background-color: #28231D ;
+    background-color: gray ;
     bottom:70px;
 }
 .github{
     position: relative;
     width: 58px;
     height: 58px;
-    background-color:#28231D;
+    background-color:white;
     left: 100px;
     border-radius: 35%;
     top: 7px;
@@ -115,7 +115,7 @@ footer{
     position: relative;
     width: 60px;
     height: 60px;
-    background-color:#28231D;
+    background-color:white;
     left:200px;
     border-radius: 18%;
     top: 7px;
@@ -129,5 +129,6 @@ footer{
     
 }
 .linkedin:hover , .github:hover{
-    background-color:white;
+    background-color: gray;
 }
+
